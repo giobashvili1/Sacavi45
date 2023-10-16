@@ -1,0 +1,15 @@
+.box{
+    width: 320px;
+    height: 155px;
+    border: 1px solid #B4B4B4;
+    padding-left: 10px;
+    margin-left: 150px;
+    margin-top: 80px;
+   
+}
+h5{
+    margin-top: 10px;
+ }
+p{
+    color: #B4B4B4;
+}
